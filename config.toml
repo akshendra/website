@@ -1,4 +1,4 @@
-baseurl = "https://akshendra.com"
+baseurl = "https://www.akshendra.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "^_^"
@@ -16,7 +16,6 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   mainSections = ["post","posts"]
-  subtitle = "lorem i"
   logo = "img/octocat.png" # Expecting square dimensions
   favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
