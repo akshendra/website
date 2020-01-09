@@ -1,0 +1,16 @@
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = https://github.com/vividvilla/ezhil
+[submodule "public"]
+	path = public
+	url = https://github.com/akshendra/akshendra.github.io
+	branch = master
+[submodule "themes/meme"]
+	path = themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "beautifulhugo"]
+	path = beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
