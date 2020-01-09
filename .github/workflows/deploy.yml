@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: chris-short/github-action-hugo@v0.1.2
     - name: Run deployment script
       run: bash deploy.sh
